@@ -127,3 +127,10 @@ export GEM_HOME=$(ruby -e 'puts Gem.user_dir')
 # cssh
 
 export PATH=$PATH:/usr/bin/site_perl
+
+# QT HiDPI
+export QT_DEVICE_PIXEL_RATIO=2
+
+# Base16 Shell
+BASE16_SHELL="$HOME/.config/base16-shell/base16-atelierforest.dark.sh"
+[[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
