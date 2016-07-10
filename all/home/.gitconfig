@@ -1,0 +1,5 @@
+[user]
+	email = isaque@dutra.io
+	name = Isaque Dutra
+[core]
+	editor = atom --wait

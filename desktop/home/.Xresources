@@ -1,0 +1,5 @@
+xterm*termName: xterm-256color
+XTerm*locale: true
+XTerm*metaSendsEscape: true
+XTerm*faceName: DejaVu Sans Mono
+XTerm*faceSize: 10
